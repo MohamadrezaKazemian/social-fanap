@@ -1,0 +1,3 @@
+interface DeleteForm {
+  verify: string;
+}
